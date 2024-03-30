@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("test1234", "깃허브 연습")
         Log.d("test1234", "test111")
+        Log.d("test1234", "test222")
     }
 }
